@@ -6,7 +6,7 @@ Transfer Learning enables a variety of computer vision projects without the need
 <img src="example.jpg" style="width:280px;height:100px;">
 
 
-* Dataset can be downloaded from below link:- https://www.kaggle.com/nih-chest-xrays/data
+* Dataset can be downloaded from this link:- https://www.kaggle.com/nih-chest-xrays/data
 
 I Strongly recommended that use google colab to retrieve data and run code.
 
